@@ -1,0 +1,37 @@
+.title1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: orange;
+    font-weight: bolder;
+    text-align: Center;
+    font-size: 50px;
+}
+
+.list {
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+    font-weight: bolder;
+    width: 1200px;
+    margin: 10px;
+    padding: 20px;
+    display: block;
+   
+}
+
+.imli {
+    margin: 20px;
+    padding: 0px;
+    height: 200px;
+    display: inline-block;
+   
+}
+
+.recipename {
+    font-size: 20px;
+    display: block;
+    margin: 20px ;
+
+}
+
+ul {
+    list-style-type: none;
+}
